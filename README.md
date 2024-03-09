@@ -1,3 +1,5 @@
+## Summary
+- Forked over from airflow's tutorial, building out custom DAGs for brainstorming out ideas.
 ## Project Structure
 
 - **dags/**: This directory is the heart of the Airflow operation, where I've scripted DAGs for various data tasks. Among these, the `example_astronauts` DAG is a neat little pipeline querying astronauts in space via the Open Notify API. To get a feel for Airflow, I highly recommend the [Getting Started Tutorial](https://docs.astronomer.io/learn/get-started-with-airflow) I used.
