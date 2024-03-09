@@ -1,13 +1,4 @@
-Understood, it looks like you're managing this project on your own. Crafting a README for your GitHub repo can serve not just as a guide for others who might come across your work, but also as a personal reference to keep track of your project's structure and setup procedures. Here's how you might adjust the README to reflect a more personal touch, while still providing all the essential information:
-
-```markdown
-# Welcome to My Project
-
-Hello there! I embarked on this journey with the Astronomer CLI, aiming to repurpose it for a series of data scraping, validation, and cataloging tasks using Apache Airflow. This work is very much a labor of love and curiosity, focusing on the fascinating world of data engineering.
-
 ## Project Structure
-
-Here's a brief look into what makes up my project:
 
 - **dags/**: This directory is the heart of the Airflow operation, where I've scripted DAGs for various data tasks. Among these, the `example_astronauts` DAG is a neat little pipeline querying astronauts in space via the Open Notify API. To get a feel for Airflow, I highly recommend the [Getting Started Tutorial](https://docs.astronomer.io/learn/get-started-with-airflow) I used.
 
@@ -40,6 +31,3 @@ While I'm mainly running things locally, deploying to an Astronomer cloud instan
 ## Contact
 
 It's just me here, so feel free to reach out if you're interested in this project, have suggestions, or want to chat about data engineering! The Astronomer CLI has been a great asset, and I'm always open to learning more from the community.
-```
-
-This personalized README provides a clear overview while also inviting collaboration and conversation, which can be invaluable when working on open-source projects or looking for feedback on your work.
